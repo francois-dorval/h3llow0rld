@@ -3,5 +3,4 @@ apply plugin: 'application'
 
 mainClassName = 'hello.HelloWorld'
 
-sourceCompatibility = 1.11
-targetCompatibility = 1.11
+

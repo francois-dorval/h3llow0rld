@@ -3,9 +3,3 @@ apply plugin: 'application'
 
 mainClassName = 'hello.HelloWorld'
 
-
-java {
-  toolchain {
-    languageVersion.set(JavaLanguageVersion.of(11))
-  }
-}
